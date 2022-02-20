@@ -2,13 +2,14 @@ Not: 100 Star 50 Fork gelirse paylaşırım.
 
 # Açıklama
 
--
+- Botlar toplamda 13 tane (4 Guard, Moderasyon, Kayıt&Genel, İstatistik, 5Welcome, Backup) bulunuyor.
 
--
+- Botun neredeyse tüm komutları menuludur. Kullanıcılarımıza hem kullanış hem de görünüş olarak en iyisini sunmak istiyoruz.
+
+- Koruma botlarında WEB Koruması bulunuyor yani bu demek oluyor ki sunucuya zarar vermek isteyen kullanıcılar sekme açamıcak.
+- Ve herhangibir rol silinmesi durumunda koruma kanalına backup botu panel açıp rolleri botçu olmadan da sizler dağıtabilirsiniz.
 
 - Fiyat hakkında konuşmak isteyenler Eirene#0606 / 628819243051515935
-
-
 
 # Ekran Görüntüleri
 ![Ekran görüntüsü 2022-02-20 195957](https://user-images.githubusercontent.com/65255704/154854964-e628a115-5bda-426f-8664-782327bb53e5.png)
