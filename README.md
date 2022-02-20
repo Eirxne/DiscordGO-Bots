@@ -1,10 +1,14 @@
+Not: 100 Star 50 Fork gelirse paylaşırım.
+
 # Açıklama
 
 -
 
 -
 
-Not: Fiyat hakkında konuşmak isteyenler Eirene#0606 / 628819243051515935
+- Fiyat hakkında konuşmak isteyenler Eirene#0606 / 628819243051515935
+
+
 
 # Ekran Görüntüleri
 ![Ekran görüntüsü 2022-02-20 195957](https://user-images.githubusercontent.com/65255704/154854964-e628a115-5bda-426f-8664-782327bb53e5.png)
