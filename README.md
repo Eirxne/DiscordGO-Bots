@@ -1,1 +1,7 @@
-# Eirene-Bots
+# Açıklama
+
+-
+
+Not:
+
+# Ekran Görüntüleri
