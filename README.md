@@ -1,4 +1,4 @@
-Not: 100 Star 50 Fork gelirse paylaşırım. ss
+Not: 100 Star 50 Fork gelirse paylaşırım.
 
 # Açıklama
 
